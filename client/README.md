@@ -1,6 +1,6 @@
 # client
 
-> Wintermute
+> Wintermute web
 
 ## Build Setup
 
