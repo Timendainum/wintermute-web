@@ -16,6 +16,8 @@
     "express": "^4.15.4",
     "install": "^0.10.1",
     "morgan": "^1.8.2",
-    "nodemon": "^1.12.1"
+    "nodemon": "^1.12.1",
+    "sequelize": "^4.8.4",
+    "sqlite": "^2.8.0"
   }
 }
